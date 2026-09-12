@@ -1,8 +1,3 @@
-"""
-code/main.py
-AI Financial Agent Orchestrator
-"""
-
 import os
 import pandas as pd
 from datetime import datetime, timedelta
